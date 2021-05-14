@@ -9,10 +9,10 @@
   "author": "jackgeek@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "7.4.4",
-    "@babel/core": "7.4.5",
-    "@babel/preset-env": "7.4.5",
-    "@babel/preset-typescript": "7.10.4",
+    "@babel/cli": "7.13.16",
+    "@babel/core": "7.14.2",
+    "@babel/preset-env": "7.14.2",
+    "@babel/preset-typescript": "7.13.0",
     "babel-plugin-codegen": "4.1.4"
   }
 }
